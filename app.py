@@ -46,7 +46,7 @@ engine.setProperty('rate', 150)
 engine.setProperty('volume', 0.9)
 
 # Gemini API Setup
-API_KEY = "AIzaSyBnalPeCH1ZsClB_7-AFRhpLZC64hMuXwQ"
+API_KEY = "#enter your api key"
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 # In-memory list to store reviews temporarily
